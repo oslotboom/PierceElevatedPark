@@ -1,0 +1,44 @@
+﻿@import "constants.scss";
+@import "header.scss";
+
+body {
+    font-family: 'Segoe UI', Helvetica, Arial, sans-serif;
+    font-size: 14px;
+    margin: 0;
+    padding: 12px 12px 12px 12px; 
+
+}
+.clearfix:after { content: ""; display: table; clear: both; }
+
+.header { font-weight: bold; color: white; background-color: $sign-color; font-size: 1.2em;  }
+
+.comparison-table {
+    padding: 0 0 ;
+    border-spacing: 0;
+    border-collapse: separate;    
+    max-width: 440px;
+    border: 1px solid $sign-color; 
+    td { width: 50%; border: 1px solid $sign-color; padding: 4px 2px 4px 6px;}
+}
+
+#text-area {max-width: 450px; margin-left: 50px; padding-bottom: 10px; margin: 0 auto;
+    div { padding-bottom: 12px;}
+    a { font-weight: bold; text-decoration: none;
+        &:hover { text-decoration: underline; }
+    }
+}
+
+.images {
+    img { display: block; width: 100%; padding-bottom: 24px;}
+    div { padding-bottom: 6px;}
+}
+
+#content { max-width: 1250px; margin: 0 auto; }
+
+#link { font-size: 1.2em; padding: 0 0 12px 0; max-width: 600px; margin: 0 auto;}
+#link a { font-weight: bold; text-decoration: none;}
+#link a:hover { text-decoration: underline;}
+
+@media (min-width: $title_transition) {
+    #text-area {font-size: 1.15em; }
+ }

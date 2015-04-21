@@ -1,0 +1,6 @@
+F:\VS\sln active\PierceElevatedPark\PierceElevatedPark\bin\PierceElevatedPark.dll.config
+F:\VS\sln active\PierceElevatedPark\PierceElevatedPark\bin\PierceElevatedPark.dll
+F:\VS\sln active\PierceElevatedPark\PierceElevatedPark\bin\PierceElevatedPark.pdb
+F:\VS\sln active\PierceElevatedPark\PierceElevatedPark\obj\Debug\PierceElevatedPark.csprojResolveAssemblyReference.cache
+F:\VS\sln active\PierceElevatedPark\PierceElevatedPark\obj\Debug\PierceElevatedPark.dll
+F:\VS\sln active\PierceElevatedPark\PierceElevatedPark\obj\Debug\PierceElevatedPark.pdb
